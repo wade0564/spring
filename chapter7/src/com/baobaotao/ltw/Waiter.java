@@ -1,0 +1,15 @@
+package com.baobaotao.ltw;
+
+public class Waiter {
+	public void greetTo(String clientName){
+		System.out.println("Waiter:greet to "+clientName+"...");
+	}	
+	
+	public void test(String clientName){
+		greetTo(clientName);
+	}
+	
+	public void serveTo(String clientName){
+		System.out.println("Waiter:serve to "+clientName+"...");
+	}
+}

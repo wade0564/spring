@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/aopalliance.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-aop-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-aspects-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-beans-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-context-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-context-support-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-expression-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-jdbc-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-orm-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-struts-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-test-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-tx-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-web-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/spring-webmvc-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/_code_repository/lib/spring/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

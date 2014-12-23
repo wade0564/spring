@@ -1,0 +1,11 @@
+/META-INF
+/applicationContext-anno.xml
+/applicationContext-aspectj.xml
+/applicationContext-dao.xml
+/applicationContext-multi.xml
+/applicationContext-pfb.xml
+/applicationContext-tx.xml
+/applicationContext.xml
+/com
+/jdbc.properties
+/log4j.properties

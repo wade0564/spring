@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/aopalliance.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/aspectjweaver-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-aop-3.2.0.RELEASE.jar" sourcepath="C:/Users/zhangw4/.m2/repository/org/springframework/spring-aop/3.2.0.RELEASE/spring-aop-3.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-aspects-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-beans-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-context-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-context-support-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-expression-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-jdbc-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-orm-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-struts-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-test-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-tx-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-web-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/WADE/spring/spring-webmvc-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
